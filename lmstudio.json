@@ -1,10 +1,9 @@
 {
   "version": "0.2.10",
-  "hash": "",
-  "depends": "",
-  "homepage": "",
-  "license": "",
-  "extract_dir": "",
-  "bin": "",
+  "hash": "A4A0AE8FE3BEBDD353F2CD092B3963F51B827C93D0492498628CDB3ECB247514",
+  "homepage": "https://lmstudio.ai/",
+  "license": "MIT License",
+  "extract_dir": "lmstudio-0.2.10",
+  "bin": "LM Studio.exe",
   "url": "https://s3.amazonaws.com/releases.lmstudio.ai/0.2.10/LM+Studio-0.2.10+Setup.exe"
 }
